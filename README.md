@@ -16,7 +16,7 @@
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7fffd4&color:FFF)](www.linkedin.com/in/jefferson-ancelmo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7fffd4&color:FFF)](www.linkedin.com/in/jefferson-ancelmo/)
 
 
 ### Estatísticas do GitHub
