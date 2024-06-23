@@ -22,10 +22,10 @@
  ### Conecte-se comigo
  
  
-  <a href = "jeffersonancelmods@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> jeffersonancelmods@gmail.com
+  <a href = "##"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </br> jeffersonancelmods@gmail.com
 
   
-  <a href="www.linkedin.com/in/jefferson-ancelmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> www.linkedin.com/in/jefferson-ancelmo
+  <a href="##" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>  www.linkedin.com/in/jefferson-ancelmo
  
 
 
